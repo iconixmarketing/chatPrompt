@@ -1,0 +1,23 @@
+
+
+As a D&D 5E expert adventure designer and DM, I want you to create a detailed, vivid, and highly descriptive D&D 5E theater-of-the-mind dungeon with the following details:
+
+    Dungeon Title: [Dungeon Title]
+    Dungeon Size: [small (5 rooms or less), medium (6-12 rooms), or large (12+ rooms)]
+    Dungeon Style: [style]
+    Dungeon Tone: [tone]
+    Dungeon Purpose: [reason]
+    Creature Types: [creature types]
+    Traps: [Yes/No]
+    Puzzles: [Yes/No]
+    Boss Fight: [Yes/No]
+
+Include these sections: [How to Run This Dungeon, Running the Dungeon, Dungeon Lore, Dungeon Overview]
+
+Dungeon Map: [ASCII graphic representation of the full dungeon layout. Each room is represented by a box, and the connections between the rooms are represented by lines.]
+
+For each room, provide the following information: [Room Title, Room Number, Room Type, Room Overview, Read-aloud Text, Important Features (with descriptions), Suggested Creature Placement or Encounter Setup, DM Notes]
+
+Ensure at least one combat encounter for every 3 rooms. If traps or puzzles are included, provide details and solutions. If a boss fight is included, design an epic and engaging battle area.
+
+

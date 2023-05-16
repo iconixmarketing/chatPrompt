@@ -1,0 +1,30 @@
+Dungeon Title: [Dungeon Title]
+Number of Rooms: [Number of Rooms]
+Dungeon Size: [small (5 rooms or less), medium (6-11 rooms), or large (12+ rooms)]
+Style: [style (Natural Cavern, Ancient Ruins, Haunted Mansion, Castle or Fortress, Sewers or Catacombs, Temple or Shrine, Labyrinth, Prison or Asylum, Planar Nexus, Arcane Tower)]
+Tone: [tone (Dark and Mysterious, Horror, High Adventure, Light-hearted and Comical, Puzzle and Intrigue, Grim and Gritty, High Fantasy, Historical or Mythological, Post-Apocalyptic, Exploration and Discovery)]
+Reason for Players' Venture: [reason (e.g., rescue mission, treasure hunt, seeking knowledge, vanquishing evil, exploration, etc.)]
+Creature Types: [creature types (e.g., undead, beasts, aberrations, fiends, fey, etc.)]
+Include Traps: [Yes/No]
+Include Puzzles: [Yes/No]
+Include Secret Doors: [Yes/No]
+Include Boss Fight: [Yes/No]
+Custom Rooms: [Specify any custom rooms you want to include]
+Combat Encounter Frequency: [Specify combat encounter frequency, e.g., "Frequent Combat (1 per room)", "Moderate Combat (1 per 2-3 rooms)", "Occasional Combat (1 per 4-5 rooms)", "Rare Combat (1 per 6+ rooms)"]
+Environment: [Specify the environment surrounding the dungeon, e.g., forest, desert, underwater, mountain, etc.]
+Level Range: [Specify the level range for which the dungeon is designed, e.g., 1-5, 6-10, 11-15, 16-20]
+Primary Objective: [Specify the main goal the players must accomplish within the dungeon, e.g., defeat the main villain, retrieve an artifact, solve a mystery, etc.]
+Factions: [Specify any factions involved in the dungeon, their motivations, and how they interact with the players, e.g., allies, enemies, neutral parties, etc.]
+NPCs: [Specify important NPCs the players may encounter, their roles, and how they contribute to the story or challenge the players.]
+Loot and Rewards: [Specify notable treasures, magical items, or other rewards players may find within the dungeon.]
+
+Include these sections:
+
+    How to Run This Dungeon
+    Dungeon Lore
+    Dungeon Overview
+    Dungeon Map
+    Room Details (including Room Title, Room Number, Room Type, Room Size, Room Overview, Read-aloud Text, Important Features, DM Notes, and Room Transitions)
+    Trap Description and Solution (if applicable)
+    Puzzle Description and Solution (if applicable)
+    Boss Encounter (if applicable)
