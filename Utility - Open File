@@ -1,0 +1,4 @@
+
+
+open_url(url: str)
+
