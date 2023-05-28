@@ -25,5 +25,6 @@ Template: Session and Encounter List
     Session Close: (a brief summary or review of the events, decisions, and progress made in the previous gameplay session, serving as a record and reminder for the Dungeon Master and players and providing context for the continuation of the adventure)
     Session Transitions: (How this Session close connects this Session to the subsequent, sessions, encounters, branching paths, or side quests)
 
-Session Details Section:
+Session Details:
 
+open_url(url: #)
